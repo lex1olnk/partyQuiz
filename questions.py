@@ -16,5 +16,5 @@ questions = [
         "options": ["Менее года", "1-3 года", "Более 3 лет", "Не программирую"],
         "image": None,
         "correct_answer": 2
-    },
+    }
 ]
